@@ -1,0 +1,3 @@
+package-as: FlexCommand_Bind
+ignore:
+  - Makefile
