@@ -1,0 +1,9 @@
+## Interface: 30403
+## Title: FlexCommand_Bind
+## Notes: FlexCommand Extension: Bind shortcut keys to spells, items and macros.
+## Author: Garrett HE <garrett.he@outlook.com>
+## Version: @project-version@
+## Dependencies: FlexCommand
+
+lib\bind.lua
+etc\commands.lua
